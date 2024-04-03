@@ -1,2 +1,8 @@
-github.com/hardik-bhasin07/puppy v0.0.0-20240401104536-601a3149f931 h1:boMmZcgQv01NC6SD6m99kdk9kkSsrtblAhXUj7cnt3Y=
-github.com/hardik-bhasin07/puppy v0.0.0-20240401104536-601a3149f931/go.mod h1:PYvCrNXbOSMg+ZczoL3kRUkqSAe5xj4IFmScquJ3S0U=
+github.com/hardik-bhasin07/dog v0.0.0-20240402150716-a79ace0a4114 h1:9HPFlYPXdKqczvWIYU8297p97EdwKtO469MjVmo5P2s=
+github.com/hardik-bhasin07/dog v0.0.0-20240402150716-a79ace0a4114/go.mod h1:lhyka08Dgj62bsZrinER5fzJN+DgHzISEjSeRZP+WjM=
+github.com/hardik-bhasin07/puppy v0.0.0-20240402151733-3ea8fdde5f90 h1:Qcw0pWsre1F3W60n5M01abwPpePkHTofmZAqli3fUOQ=
+github.com/hardik-bhasin07/puppy v0.0.0-20240402151733-3ea8fdde5f90/go.mod h1:aNNa9GVXRiWwt0eSLUJGAJoaMIcqIDvq62jKXlHVO2g=
+github.com/hardik-bhasin07/puppy v1.1.0 h1:M0fJIvvOHJ3y7I7FB5dZjq7PLPVBXRODlIL4R5JQUvM=
+github.com/hardik-bhasin07/puppy v1.1.0/go.mod h1:aNNa9GVXRiWwt0eSLUJGAJoaMIcqIDvq62jKXlHVO2g=
+github.com/hardik-bhasin07/puppy v1.2.0 h1:YR5W0yhY04F5F6eVEEvUVtL2ZzrWwXd2Cy376+4f6Kc=
+github.com/hardik-bhasin07/puppy v1.2.0/go.mod h1:aNNa9GVXRiWwt0eSLUJGAJoaMIcqIDvq62jKXlHVO2g=
